@@ -17,12 +17,19 @@ xampp or Wamp
 # I will show you these other rules to validate a form:
 
 maxlength: check that the number of characters is less than the specified
+
 minlength: verify that the number of characters is greater than the specified
+
 rangelength: check that the number of characters entered is within the specified range, for example rangelength: [50,250]
+
 min: applies to numeric fields, check that at least a value equal to the specified value is entered
+
 max: applies to numeric fields, check that at most a value equal to the specified value is entered
+
 equalTo: it is used to check that the value of two fields is the same, for example the confirmation of a password or mail. Its use would be as follows: confirm_email:{equalTo:”#email”}
+
 url: will verify that the entered value is URL format
+
 email: check that the value entered is in the format of e-mail
 
 # Contact: 

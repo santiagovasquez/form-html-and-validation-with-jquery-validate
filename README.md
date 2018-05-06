@@ -6,8 +6,8 @@ Here are the necessary libraries to make this form, validating them with Javascr
 
 # REQUIREMENTS:
 
-Php 5.6
-MySql
+Php 5.6, 
+MySql, 
 xampp or Wamp
 
 
